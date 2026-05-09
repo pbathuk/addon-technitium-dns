@@ -16,7 +16,3 @@ on:
 jobs:
   workflows:
     uses: hassio-addons/workflows/.github/workflows/addon-ci.yaml@main
-    permissions:
-      contents: read
-      actions: read
-      security-events: write
