@@ -27,7 +27,7 @@ A fully featured DNS server for Home Assistant that:
 
 1. Click the Home Assistant My button below to add the repository to your Home Assistant instance.
 
-   [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fstaerk-ha-addons%2Frepository)
+   [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fpbathuk%2Frepository)
 
 2. Find the "Technitium DNS Server" add-on in the add-on store.
 3. Click "Install" to download the add-on.
@@ -86,7 +86,7 @@ This is an active open-source project. We welcome contributions from anyone inte
 
 ## 👥 Authors & Contributors
 
-The original setup of this repository is by [Jeppe Stærk][staerk].
+The original setup of this repository is by [Jeppe Stærk][staerk], I have simply moved the version to V15.2 [Phil Bath][pbathuk]
 
 ## 🙏 Acknowledgments
 
@@ -106,14 +106,15 @@ This is a third-party add-on for Home Assistant and not an official add-on. It i
 
 MIT License - Copyright (c) 2025 Jeppe Stærk
 
-[dns-diagram]: https://raw.githubusercontent.com/staerk-ha-addons/addon-technitium-dns/refs/heads/main/images/flowchart-dns.svg
-[docs]: https://github.com/staerk-ha-addons/addon-technitium-dns/blob/main/technitium-dns/DOCS.md
+[dns-diagram]: https://raw.githubusercontent.com/pbathuk/addon-technitium-dns/refs/heads/main/images/flowchart-dns.svg
+[docs]: https://github.com/pbathuk/addon-technitium-dns/blob/main/technitium-dns/DOCS.md
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/staerk-ha-addons/addon-technitium-dns/issues
-[releases-shield]: https://img.shields.io/github/release/staerk-ha-addons/addon-technitium-dns.svg
-[releases]: https://github.com/staerk-ha-addons/addon-technitium-dns/releases
-[repository]: https://github.com/staerk-ha-addons/repository
+[issue]: https://github.com/pbathuk/addon-technitium-dns/issues
+[releases-shield]: https://img.shields.io/github/release/pbathuk/addon-technitium-dns.svg
+[releases]: https://github.com/pbathuk/addon-technitium-dns/releases
+[repository]: https://github.com/pbathuk/repository
+[pbathuk]: https://github.com/pbathuk
 [staerk]: https://github.com/jepestaerk
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[license-shield]: https://img.shields.io/github/license/staerk-ha-addons/addon-technitium-dns.svg
+[license-shield]: https://img.shields.io/github/license/pbathuk/addon-technitium-dns.svg
 [ha-addons]: https://addons.community/
